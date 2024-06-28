@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TareasAPI_903.props" />
+</Project>

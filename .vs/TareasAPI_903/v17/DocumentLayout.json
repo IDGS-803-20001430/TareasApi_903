@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|c:\\users\\lreri\\source\\repos\\tareasapi_903\\tareasapi_903\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|solutionrelative:tareasapi_903\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|c:\\users\\lreri\\source\\repos\\tareasapi_903\\tareasapi_903\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|solutionrelative:tareasapi_903\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|c:\\users\\lreri\\source\\repos\\tareasapi_903\\tareasapi_903\\models\\bdtareas903context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|solutionrelative:tareasapi_903\\models\\bdtareas903context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|c:\\users\\lreri\\source\\repos\\tareasapi_903\\tareasapi_903\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|solutionrelative:tareasapi_903\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|c:\\users\\lreri\\source\\repos\\tareasapi_903\\tareasapi_903\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|solutionrelative:tareasapi_903\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|c:\\users\\lreri\\source\\repos\\tareasapi_903\\tareasapi_903\\tareasapi_903.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9A5448A-1628-4750-8212-C0484D41C161}|TareasAPI_903\\TareasAPI_903.csproj|solutionrelative:tareasapi_903\\tareasapi_903.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "TareasAPI_903\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "TareasAPI_903\\Controllers\\TareasController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:56:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\appsettings.json",
+              "RelativeDocumentMoniker": "TareasAPI_903\\appsettings.json",
+              "ToolTip": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\appsettings.json",
+              "RelativeToolTip": "TareasAPI_903\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T01:47:25.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bdtareas903Context.cs",
+              "DocumentMoniker": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Models\\Bdtareas903Context.cs",
+              "RelativeDocumentMoniker": "TareasAPI_903\\Models\\Bdtareas903Context.cs",
+              "ToolTip": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Models\\Bdtareas903Context.cs",
+              "RelativeToolTip": "TareasAPI_903\\Models\\Bdtareas903Context.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:40:06.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "TareasAPI_903\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Models\\Tarea.cs",
+              "RelativeToolTip": "TareasAPI_903\\Models\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:40:43.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Program.cs",
+              "RelativeDocumentMoniker": "TareasAPI_903\\Program.cs",
+              "ToolTip": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\Program.cs",
+              "RelativeToolTip": "TareasAPI_903\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:27:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareasAPI_903",
+              "DocumentMoniker": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\TareasAPI_903.csproj",
+              "RelativeDocumentMoniker": "TareasAPI_903\\TareasAPI_903.csproj",
+              "ToolTip": "C:\\Users\\lreri\\source\\repos\\TareasAPI_903\\TareasAPI_903\\TareasAPI_903.csproj",
+              "RelativeToolTip": "TareasAPI_903\\TareasAPI_903.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T01:26:19.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
