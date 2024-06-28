@@ -23,7 +23,7 @@ namespace TareasAPI_903.Controllers
         [Route("ListaTareas")]
         public async Task<IActionResult> Lista()
         {
-            var listaTareas = await 
+            var listaTareas = await
                 _baseDatos.Tareas.ToListAsync();
             return Ok(listaTareas);
         }
@@ -38,9 +38,35 @@ namespace TareasAPI_903.Controllers
             return Ok(request);
         }
 
+        //Método PUT ModificarTarea
+        [HttpPut]
+        [Route("ModificarTarea/{id}")]
+        public async Task<IActionResult> Modificar(int id, [FromBody] Tarea request)
+        {
+            var tareaModificar = await
+                _baseDatos.Tareas.FindAsync(id);
+
+            if (tareaModificar == null)
+            {
+                return BadRequest("La tarea no existe");
+            }
+
+            tareaModificar.Nombre = request.Nombre;
+            try
+            {
+                await _baseDatos.SaveChangesAsync();
+            }
+            catch (Exception ex)
+            {
+                return NotFound();
+            }
+
+            return Ok();
+        }
+
         //Método DELETE EliminarTarea
         [HttpDelete]
-        [Route("EliminarTarea/(id: int)")]
+        [Route("EliminarTarea/{id}")]
         public async Task<IActionResult> Eliminar(int id)
         {
             var tareaEliminar = await

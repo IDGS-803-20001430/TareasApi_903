@@ -134,3 +134,4 @@ C:\Users\lreri\source\repos\TareasAPI_903\TareasAPI_903\obj\Debug\net8.0\refint\
 C:\Users\lreri\source\repos\TareasAPI_903\TareasAPI_903\obj\Debug\net8.0\TareasAPI_903.pdb
 C:\Users\lreri\source\repos\TareasAPI_903\TareasAPI_903\obj\Debug\net8.0\TareasAPI_903.genruntimeconfig.cache
 C:\Users\lreri\source\repos\TareasAPI_903\TareasAPI_903\obj\Debug\net8.0\ref\TareasAPI_903.dll
+C:\Users\lreri\source\repos\TareasAPI_903\TareasAPI_903\obj\Debug\net8.0\TareasAPI_903.sourcelink.json
